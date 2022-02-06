@@ -1,0 +1,11 @@
+name: Events
+version: 1.0
+main: sixpack.events.events
+author: sixpack
+commands:
+    events: 
+      description: Base command for events plugin  
+      aliases: [event] 
+    eventsadmin: 
+      description: Base command Admins
+      aliases: [eventadmin] 
